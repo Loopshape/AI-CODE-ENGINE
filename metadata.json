@@ -1,0 +1,5 @@
+{
+  "name": "3D Parallax Layers",
+  "description": "A React web application demonstrating a 3D stacked layer parallax effect using three.js and Tailwind CSS. The layers shift in response to mouse movement, creating an illusion of depth.",
+  "requestFramePermissions": []
+}
